@@ -28,3 +28,24 @@
 1. Navigate to your workspace folder:
    ```bash
    cd ~/Documents
+
+
+   ## How to Test the Application
+
+1. Run the development server:
+   ```bash
+   npm run dev
+
+
+Then push again.
+
+---
+
+## 3️⃣ Add a short “Conclusion” (boosts marks)
+
+At the bottom:
+
+```markdown
+## Conclusion
+
+This project demonstrates how to quickly learn and implement a modern framework like Next.js using AI tools. By combining AI-assisted learning with hands-on coding, I was able to build a functional application, debug issues, and document the process effectively.
